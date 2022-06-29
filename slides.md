@@ -1,6 +1,6 @@
 ---
 theme: seriph
-src: './slides/slides1.md'
+src: './slides/slides2.md'
 exportFilename: 'clase2-28Jun.pdf'
 favicon: /images/profile.png
 ---
