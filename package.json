@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "dev": "slidev --open --remote",
+    "dev": "slidev --remote",
     "export": "slidev export --dark"
   },
   "dependencies": {
@@ -12,6 +12,7 @@
     "@slidev/theme-seriph": "*"
   },
   "devDependencies": {
+    "@iconify-json/et": "^1.1.2",
     "@iconify-json/fa": "^1.1.1",
     "@iconify-json/logos": "^1.1.5",
     "@iconify-json/mdi": "^1.1.21",
